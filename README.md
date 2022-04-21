@@ -8,7 +8,8 @@ You can reach me at any time with the mail address: a9510130375@gmail.com
 
 I will mostly reply to you at night.
 *****
-**Introduction
+Introduction
+=============
 
 These codes are for the project of constraining on WIMPs  
 
@@ -16,9 +17,12 @@ without and with
 
 **Earth Effect Incorporated**
 
-Please use codes as you wish.  
+Because we don't know what WIMP is, we assume that it is a kind of "material" that can **interact** with other normal particles on earth.
 
-(Sorry my coding skill is not professional. I will try my best do the interpretation in this script.)
+Here, we need to assume two properties of WIMP:
+
+*Mass
+*Cross Section
 
 *****
 
