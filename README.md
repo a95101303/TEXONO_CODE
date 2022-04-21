@@ -4,13 +4,14 @@
 <br>
 Dear PEOPLE in TEXONO:
 </br>
-These codes are for the project of constraining on WIMPs 
+These codes are for the project of constraining on WIMPs  
 
-without and with
+without and with  
 
 **Earth Effect Incorporated**
 
-Please use codes as you wish
+Please use codes as you wish.  
+
 (Sorry my coding is not professional, I will try my best do the interpretation in this script.)
 //======================================================//
 
