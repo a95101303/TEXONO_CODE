@@ -21,7 +21,7 @@ Because we don't know what WIMP is, we assume that it is a kind of "material" th
 
 Here, we need to assume two properties of WIMP:
 
-*Mass
+*Mass(M_{\chi})
 *Cross Section
 
 *****
