@@ -21,7 +21,7 @@ Because we don't know what WIMP is, we assume that it is a kind of "material" th
 
 Here, we need to assume two properties of WIMP:
 
-* Mass(M_{\chi})
+* Mass(M_{$\chi$})
 * Cross Section
 
 These two parameters are free ones that should be set ahead for the rest of our research. 
