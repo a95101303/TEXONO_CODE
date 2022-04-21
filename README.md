@@ -13,8 +13,16 @@ without and with
 Please use codes as you wish.  
 
 (Sorry my coding skill is not professional. I will try my best do the interpretation in this script.)
-//======================================================//
 
+*****
+
+** Introduction
+
+
+
+
+
+*****
 The steps of producing the plots of constraining on WIMPs are as follows:
 
 A. Without the earth effect
