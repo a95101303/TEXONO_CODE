@@ -2,11 +2,11 @@
 
 Hello Everyone! I'm Chih-Hsiang Yeh~
 
-This is the place I store my codes for my project. 
+This is the place where I store my codes for my project. 
 
 You can reach me at any time with the mail address: a9510130375@gmail.com
 
-I will mostly reply to you at night.
+I will reply to you at night mostly.
 *****
 Introduction
 =============
@@ -21,8 +21,8 @@ Because we don't know what WIMP is, we assume that it is a kind of "material" th
 
 Here, we need to assume two properties of WIMP:
 
-*Mass(M_{\chi})
-*Cross Section
+* Mass(M_{\chi})
+* Cross Section
 
 *****
 
