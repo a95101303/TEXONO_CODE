@@ -1,8 +1,14 @@
 # TEXONO_CODE
 
-//====================^_^=============== ======//
+Hello Everyone! I'm Chih-Hsiang Yeh~
 
-Dear PEOPLE in TEXONO:
+This is the place I store my codes for my project. 
+
+You can reach me at any time with the mail address: a9510130375@gmail.com
+
+I will mostly reply to you at night.
+*****
+**Introduction
 
 These codes are for the project of constraining on WIMPs  
 
@@ -15,8 +21,6 @@ Please use codes as you wish.
 (Sorry my coding skill is not professional. I will try my best do the interpretation in this script.)
 
 *****
-
-** Introduction
 
 
 
