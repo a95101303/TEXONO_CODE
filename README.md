@@ -24,6 +24,10 @@ Here, we need to assume two properties of WIMP:
 * Mass(M_{\chi})
 * Cross Section
 
+These two parameters are free ones that should be set ahead for the rest of our research. 
+
+You will see these two again and again in our code. That is the reason.
+
 *****
 
 
